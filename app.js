@@ -6,3 +6,4 @@ document.addEventListener('DOMContentLoaded', () => {
     'Astuce: modifiez la même ligne du <h1> ci-dessus pour déclencher un conflit.'
   ].join('\n');
 });
+console.log();
